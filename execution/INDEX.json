@@ -1,0 +1,8 @@
+{
+  "program": "COGS Global cogsglobal.ae 90-day execution",
+  "startDate": "2026-11-03",
+  "totalDays": 91,
+  "xlsx": "output/COGS_Execution_Plan.xlsx",
+  "dailyFolders": "by-date/YYYY-MM-DD/",
+  "generatedAt": "2026-10-31T18:01:41.293Z"
+}
