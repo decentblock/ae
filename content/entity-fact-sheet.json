@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "approvedBy": "Marketing / Compliance — sign off before publish",
+  "lastUpdated": "2026-10-31",
+  "legalName": "COGS Global Surveyors & Loss Adjusters L.L.C.",
+  "brandName": "COGS Global",
+  "tagline": "We Investigate to Alleviate",
+  "foundedYear": 2010,
+  "primaryWebsite": "https://cogsglobal.ae",
+  "secondaryWebsitePolicy": "https://cogsglobal.com — India network and legacy URLs; UAE/GCC service pages 301 to .ae equivalents",
+  "publicMetrics": {
+    "claimsAdjusted": "20,000+",
+    "valuationsCompleted": "2,500+",
+    "riskInspections": "5,000+",
+    "yearsExperience": "15+",
+    "maxSingleClaimUsd": "10,000,000",
+    "note": "Use only these figures on cogsglobal.ae and aligned properties until compliance approves a single global rollup."
+  },
+  "nap": {
+    "headquarters": {
+      "name": "COGS Global Surveyors & Loss Adjusters L.L.C. — UAE Headquarters",
+      "streetAddress": "Al Khaleej Center – 608, 6th Floor, Al Mankhool Road, Near Sharaf DG Metro Station",
+      "addressLocality": "Bur Dubai",
+      "addressRegion": "Dubai",
+      "addressCountry": "AE",
+      "postalCode": "",
+      "formatted": "Al Khaleej Center – 608, 6th Floor, Al Mankhool Road, Near Sharaf DG Metro Station, Bur Dubai, Dubai, UAE"
+    },
+    "oman": {
+      "name": "COGS Global — Oman Operations",
+      "streetAddress": "31, 3rd Floor, Elite Office Building, Boushar",
+      "addressLocality": "Muscat",
+      "addressCountry": "OM",
+      "formatted": "31, 3rd Floor, Elite Office Building, Boushar, Muscat, Sultanate of Oman"
+    }
+  },
+  "contact": {
+    "emailPrimary": "info@cogsglobal.ae",
+    "phonesUae": ["+971589808009", "+971582050267", "+971501607650"],
+    "phonesOman": ["+96877293020", "+96877171500"]
+  },
+  "regulatory": [
+    "Licensed / registered with the Central Bank of the UAE (insurance survey & loss adjustment)",
+    "IRDAI registered (India)"
+  ],
+  "memberships": [
+    "Chartered Institute of Loss Adjusters (CILA)",
+    "RICS affiliated",
+    "ISO-aligned quality management systems"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/company/cogsglobal"
+  ],
+  "serviceRegions": ["UAE", "Oman", "GCC", "India", "China", "Singapore", "Africa"]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "templates": {
+    "global": {
+      "types": ["Organization", "ProfessionalService"],
+      "requiredFields": ["name", "url", "email", "telephone", "address", "sameAs", "slogan", "foundingDate"],
+      "source": "content/entity-fact-sheet.json"
+    },
+    "serviceHub": {
+      "types": ["Service"],
+      "requiredFields": ["name", "description", "provider", "areaServed", "url"],
+      "pages": [
+        "loss-adjustment-uae",
+        "insurance-surveyors-dubai",
+        "marine-cargo-hull-surveys-uae",
+        "property-fire-claims-uae",
+        "engineering-claims-car-ear-uae",
+        "risk-engineering-pre-risk-surveys-uae",
+        "insurance-valuation-reinstatement-uae",
+        "catastrophe-claims-capacity",
+        "marine-surveys-oman",
+        "affiliations-licenses"
+      ]
+    },
+    "faq": {
+      "type": "FAQPage",
+      "rule": "Every service hub with faqs[] in pages-en.js / pages-ar.js"
+    },
+    "aboutPerson": {
+      "type": "Person",
+      "page": "about",
+      "note": "Extend with approved leadership bios only"
+    }
+  },
+  "validation": [
+    "https://search.google.com/test/rich-results",
+    "https://validator.schema.org/"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cogsglobal-ae",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "meta-matrix": "node scripts/export-meta-matrix.mjs"
+  }
+}

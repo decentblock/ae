@@ -1,0 +1,11 @@
+{
+  "siteUrl": "https://cogsglobal.ae",
+  "preferredHost": "non-www",
+  "defaultLanguage": "en",
+  "ga4MeasurementId": "G-XXXXXXXXXX",
+  "ogImage": "/assets/og-default.svg",
+  "locales": {
+    "en": { "hreflang": "en-AE", "pathPrefix": "/en", "label": "English" },
+    "ar": { "hreflang": "ar-AE", "pathPrefix": "/ar", "label": "العربية", "dir": "rtl" }
+  }
+}
